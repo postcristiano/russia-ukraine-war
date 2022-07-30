@@ -1,11 +1,11 @@
 *Lang: en-US*
 
 # Russia X Ukraine War 2022
-### Case study with OSINT
+### *A analytics and weak supervision study case with OSINT*
 
 <img src="./img/banner-ukraine.png">  
 
-Repository for studying OSINT news about the conflict between Russia and Ukraine through analytics techniques and machine learning.  
+Repository for sharing OSINT news, datasets and intelligence artifacts created with ML techniques about the conflict between Russia and Ukraine.
 
 OSINT Source | Twitter
 -------------- | -------------------------
